@@ -1,4 +1,4 @@
-# Absensi Siswa RFID (Versi Pengumpulan)
+# Absensi Siswa RFID 
 
 Paket ini berisi **source code web + database** untuk dijalankan langsung di komputer lokal.
 
